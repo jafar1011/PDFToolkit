@@ -27,4 +27,11 @@ No External Dependencies Like LibreOffice or MS Office Required
 
 
 
+## 📥 Download
+
+👉 [Download Latest Release]([https://github.com/your-username/your-repo-name/releases/latest/download/YourApp.exe](https://github.com/jafar1011/PDFToolkit-Completed/releases/download/Public/Toolkit.Setup.1.2.rar))
+
+
+
+
 ![image](https://github.com/user-attachments/assets/a1623125-cf6b-4ee6-bd5f-fccf6c45e886)
